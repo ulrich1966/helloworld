@@ -26,7 +26,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginLeft="24dp"
         android:layout_marginTop="162dp"
-        android:text="developer.android.com/training/basics/firstapp/"
+        android:text="https://developer.android.com/training/basics/firstapp/"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
